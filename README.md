@@ -85,9 +85,6 @@ Logout → Login Screen
 
 <br>
 
-### [BONUS] Digital Wireframes & Mockups
-
-### [BONUS] Interactive Prototype
 
 <br>
 
@@ -95,9 +92,7 @@ Logout → Login Screen
 
 ## GitHub Project board
 
-[Add screenshot of your Project Board with three milestones visible in
-this section]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+![GitHub Project Board](GitHub%20Project%20Board.png)
 
 ## Issue cards
 
