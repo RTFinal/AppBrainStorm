@@ -79,7 +79,7 @@ Logout → Login Screen
 
 ## Wireframes
 
-![App Wireframe](App%20Wire%20Framing2.png)
+![App Wireframe](App%20Wire%20Framing2.png) 
 
 <br>
 
