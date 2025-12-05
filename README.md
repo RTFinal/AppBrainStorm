@@ -79,7 +79,7 @@ Logout → Login Screen
 
 ## Wireframes
 
-[Add picture of your hand sketched wireframes in this section] <img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+![App Wireframe](App%20Wire%20Framing2.png)
 
 <br>
 
