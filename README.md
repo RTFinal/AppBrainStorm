@@ -92,7 +92,7 @@ Logout → Login Screen
 
 ## GitHub Project board
 
-![GitHub Project Board](GitHub%20Project%20Board.png)
+![Project Board](GitHub%20Project%20Board.png)
 
 ## Issue cards
 
