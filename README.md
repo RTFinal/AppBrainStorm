@@ -10,59 +10,72 @@
 
 ### Description
 
-[Description of your app]
+[AnonChat is a mobile app that allows users to post and reply to short, anonymous messages within their campus community. Students log in with their school email to verify their affiliation, but all posts and replies remain anonymous. The goal is to create a safe and fun space for authentic expression, connection, and discussion.
 
 ### App Evaluation
 
 [Evaluation of your app across the following attributes]
 - **Category:**
-- **Mobile:**
-- **Story:**
-- **Market:**
-- **Habit:**
-- **Scope:**
+- **Mobile: The app is designed primarily for mobile users. Quick posting, scrolling, and replying are ideal for a mobile interface.**
+- **Story: Students often want to share thoughts or questions they might not feel comfortable attaching their name to. The app gives them a way to connect authentically.**
+- **Market: Anonymous social platforms like Fizz and YikYak have proven demand on college campuses. Target users are university students.**
+- **Habit: Users can develop a daily habit of checking posts, reacting to messages, and staying connected to campus life.**
+- **Scope: The MVP is realistic for a student project: login, anonymous posting, viewing posts, and replying. Advanced features (moderation, upvotes, etc.) can come later.**
 
 ## Product Spec
 
 ### 1. User Features (Required and Optional)
 
 **Required Features**
+**User Login** – Log in using a verified school email to access the community.
+**Post Message** – Create and post an anonymous message visible to everyone.
+**View Feed** – See a scrolling list of all posts, newest first.
+**Reply to Post** – Tap a post to view replies or add your own comment.
+**Logout** – Allow users to safely log out.
 
-1. [fill in your required user features here]
-2. ...
-3. ...
 
 **Optional Features**
 
-1. [fill in your optional user features here]
-2. ...
-3. ...
+Upvote/Downvote System – Let users react to posts and boost popular content.
+Categories/Tags – Organize posts into topics (e.g., “Confessions,” “Questions,” “Events”).
+Direct Messages – Send private anonymous messages between users.
+Report/Moderate Posts – Report inappropriate content to moderators.
+Notifications – Notify users when someone replies to their post.
+
 
 ### 2. Screen Archetypes
 
-- [list first screen here]
-  - [list associated required story here]
-  - ...
-- [list second screen here]
-  - [list associated required story here]
-  - ...
+- [Login Screen]
+  - Users log in using their school email to verify identity.
+
+- [Home Feed Screen]
+  - [Displays all anonymous posts in a scrollable list with timestamps.]
+- Post Creation Screen
+   - Text box for creating and submitting a new post.
+- Post Detail Screen
+  - Shows a post and its replies, allows users to add a comment.
+- Profile/Settings Screen
+  - Basic settings (logout, terms, report issue.
 
 ### 3. Navigation
 
 **Tab Navigation** (Tab to Screen)
 
-* [fill out your first tab]
-* [fill out your second tab]
-* [fill out your third tab]
+Tab Navigation
+Home Tab: Feed of posts
+Post Tab: Create a new post
+Profile Tab: View profile/settings
+
 
 **Flow Navigation** (Screen to Screen)
 
-- [list first screen here]
-  - [list screen navigation here]
-  - ...
-- [list second screen here]
-  - [list screen navigation here]
-  - ...
+Login Screen → Home Feed
+Home Feed → Post Detail (when a post is tapped)
+Home Feed → Post Creation (via “+” button or tab)
+Post Detail → Reply Form
+Profile → Logout
+Logout → Login Screen
+
 
 ## Wireframes
 
