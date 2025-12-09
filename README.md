@@ -96,14 +96,27 @@ Logout → Login Screen
 
 ## Issue cards
 
-- [Add screenshot of your Project Board with the issues that you've been working on for this unit's milestone] ![Issues Worked On](Issues%20Worked%20ON.png)
-- [Add screenshot of your Project Board with the issues that you're working on in the **NEXT sprint**. It should include issues for next unit with assigned owners.] ![ToDo Issues](ToDo%20Issues.png)
+![Issues Worked On](Issues%20Worked%20ON.png)
+ ![ToDo Issues](ToDo%20Issues.png)
 
 
 ## Issues worked on this sprint
 
 - List the issues you completed this sprint
-- [Add giphy that shows current build progress for Milestone 2. Note: We will be looking for progression of work between Milestone 2 and 3. Make sure your giphys are not duplicated and clearly show the change from Sprint 1 to 2.]
+ISSUE 1 — Create Android Project + Repo Setup
+
+ISSUE 2 — Set Up Navigation Graph (Fragments)
+
+ISSUE 3 — Build XML Layouts for Core Screens
+
+ISSUE 4 — Implement Bottom Navigation Bar
+
+ISSUE 5 — Add Wireframe Image to README
+
+ISSUE 6 — Create Data Model Planning Section
+
+ISSUE 7 — Implement Fake Chat Message List (RecyclerView)
+
 
 <br>
 
