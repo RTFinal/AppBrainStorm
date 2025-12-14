@@ -125,7 +125,7 @@ ISSUE 7 — Implement Fake Chat Message List (RecyclerView)
 ## GitHub Project board
 
 
-![Milestone 3 Project Board](https://github.com/RTFinal/AppBrainStorm/blob/main/Milestone%209%20Pic.png?raw=true)
+![Milestone 3 Project Board](Milestone%209%20Pic.png)
 
 
 
