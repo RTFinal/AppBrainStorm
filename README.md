@@ -124,9 +124,8 @@ ISSUE 7 — Implement Fake Chat Message List (RecyclerView)
 
 ## GitHub Project board
 
-## GitHub Project Board
 
-![Milestone 3 Project Board](./Milestone%209%20Pic.png)
+![Milestone 3 Project Board](Milestone%209%20Pic.png)
 
 
 ![Current App Build](Milestone%209%20Pic%202.png)
@@ -134,9 +133,12 @@ ISSUE 7 — Implement Fake Chat Message List (RecyclerView)
 
 ## Completed user stories
 
-- List the completed user stories from this unit
-- List any pending user stories / any user stories you decided to cut
-from the original requirements
+- User can view an anonymous feed of posts on the Home screen
+- User can create a new anonymous post using the Create screen
+- User can navigate between Home, Create, and Profile using bottom navigation
+- User can view an anonymous profile with post and reply counts
+- User can interact with posts using upvotes and replies
+- App uses a consistent, calm visual theme across all screens
 
 
 
