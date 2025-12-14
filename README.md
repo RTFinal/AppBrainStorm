@@ -136,5 +136,7 @@ from the original requirements
 <img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
 
 ## App Demo Video
+## App Demo Video
 
-- Embed the YouTube/Vimeo link of your Completed Demo Day prep video
+[![AnonChat Demo Video](https://img.youtube.com/vi/TYB3mhrWKww/0.jpg)](https://youtu.be/TYB3mhrWKww)
+
