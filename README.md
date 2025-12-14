@@ -124,7 +124,13 @@ ISSUE 7 — Implement Fake Chat Message List (RecyclerView)
 
 ## GitHub Project board
 
-[Add screenshot of your Project Board with the updated status of issues for Milestone 3. Note that these should include the updated issues you worked on for this sprint and not be a duplicate of Milestone 2 Project board.] <img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+## GitHub Project Board
+
+![Milestone 3 Project Board](Milestone%209%20Pic.png)
+
+
+![Current App Build](Milestone%209%20Pic%202.png)
+
 
 ## Completed user stories
 
@@ -132,8 +138,7 @@ ISSUE 7 — Implement Fake Chat Message List (RecyclerView)
 - List any pending user stories / any user stories you decided to cut
 from the original requirements
 
-[Add video/gif of your current application that shows build progress]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+
 
 ## App Demo Video
 ## App Demo Video
